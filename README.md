@@ -1,7 +1,7 @@
 # Testing machine
 
-Software: Beckhoff TIA Portal</b>
-Language: SCL (CODESYS)</b>
+Software: Beckhoff TIA Portal</br>
+Language: SCL (CODESYS)</br>
 
 In project was used 
 <ul>
